@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Server
+source:           docs
+destination:      _gh_pages
+host:             0.0.0.0
+port:             9001
+name:             Semantic Strap
+description:      Beautiful and responsive CSS toolkit inspired by Semantic-UI and built with Bootstrap 4
+# baseurl:          /semantic-strap
+encoding:         UTF-8
+
+gems:
+  - jekyll-sitemap
+
+# Custom vars
+current_version:  1.0.0
+repo:             https://github.com/websemantics/semantic-strap
