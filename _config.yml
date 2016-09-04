@@ -11,7 +11,7 @@ destination:      _gh_pages
 host:             0.0.0.0
 port:             9001
 name:             Semantic Strap
-description:      Beautiful and responsive CSS toolkit inspired by Semantic-UI and built with Bootstrap 4
+description:      Beautiful CSS toolkit inspired by Semantic-UI and built with Bootstrap 4
 # baseurl:          /semantic-strap
 encoding:         UTF-8
 
