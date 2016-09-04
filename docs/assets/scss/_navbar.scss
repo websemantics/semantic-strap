@@ -1,0 +1,25 @@
+//
+// Navbar guidelines
+//
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 900;
+  width: 100%;
+  padding: 2em 0;
+  background-color: transparent;
+
+  .navbar-brand {
+    text-align: center;
+  }
+
+  .navbar-nav {
+    .nav-item {
+      a {
+        color: #fff;
+      }
+    }
+  }
+}
