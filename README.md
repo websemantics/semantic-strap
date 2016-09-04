@@ -191,7 +191,7 @@ Love the Github *repository buttons* used and want to use them to showcase your 
 
 [Bootstrap 4 Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/), A quick reference for Bootstrap v4.0.0-alpha.3.
 
-[Awesome Ant Design](https://github.com/websemantics/awesome-ant-design/), A curated list of Ant Design resources and related projects.
+[Awesome Semantic-UI](https://github.com/websemantics/awesome-semantic-ui/), A curated list of Semantic-UI resources and related projects.
 
 [Semantic Ant](https://github.com/websemantics/semantic-ant), Ant Design inspired theme for [Semantic-UI](http://semantic-ui.com/).
 
